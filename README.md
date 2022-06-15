@@ -9,4 +9,4 @@ Open to new strategies and opportunities. </br>
 kgw8829@gmail.com </br>
 This repository is mainly used for personal usage (private repos). </br>
 
-Seoul -> Tokyo -> New York -> Singapore
+Seoul -> Tokyo -> New York -> Singapore -> Australia
